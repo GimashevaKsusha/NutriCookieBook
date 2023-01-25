@@ -8,7 +8,7 @@ from alembic import context
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
 config = context.config
-config.set_main_option("sqlalchemy.url", "postgresql://postgres:gkv1457@localhost:5432/nutri_cookie_book")
+config.set_main_option("sqlalchemy.url", "postgresql://postgres:1234@db/nutricookiebook")
 
 # Interpret the config file for Python logging.
 # This line sets up loggers basically.
