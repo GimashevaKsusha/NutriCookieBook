@@ -1,0 +1,175 @@
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.link-menu {
+    display: inline;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #000000;
+    display: inline-block;
+    margin: 10px;
+    padding: 25px 100px;
+    background-color: #ACD0C0;
+    border-bottom: 5px solid #6C5F5B;
+    border-radius: 0px 25px;
+}
+
+.link-menu a:hover {
+    background-color: #75B1A9;
+}
+
+.container {
+    background-color: #FFFFFF;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 5px;
+    margin: 30px 50px;
+    height: calc(100vh - 180px);
+    overflow: auto;
+    text-align: center;
+}
+
+#main-page {
+    text-align: center;
+}
+
+.checkbox {
+    margin: 30px;
+}
+
+.textbox {
+    padding: 15px 50px;
+}
+
+img {
+    width: calc(100vw / 1.7);
+    height: auto;
+    border-radius: 4vw 0px;
+}
+
+.choose {
+    text-align: right;
+}
+
+.choose a{
+    text-decoration: none;
+    color: #000000;
+    display: inline-block;
+    margin: 20px 0px 0px 20px;
+    padding: 20px 80px;
+    background-color: #ACD0C0;
+    border: 0px solid;
+    border-bottom: 5px solid #6C5F5B;
+    border-radius: 25px 0px;
+}
+
+.choose a:hover {
+    background-color: #75B1A9;
+}
+
+#product-table {
+    width: 100%;
+    text-align: center;
+}
+
+#product-table td, #product-table th {
+    border: 2px solid #6C5F5B;
+    padding: 8px;
+}
+
+#product-table tr:nth-child(even){
+    background-color: #E9FFFA;
+}
+
+#product-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #75B1A9;
+}
+
+
+#recipe-table {
+    width: 100%;
+    text-align: center;
+}
+
+#recipe-table td {
+    border: 2px solid #6C5F5B;
+    padding: 8px;
+}
+
+.rname, .source {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #75B1A9;
+}
+
+.rname a, .source a {
+    text-decoration: none;
+    color: #000000;
+}
+
+#rname-link:hover, .source:hover {
+    background-color: #ACD0C0;
+}
+
+.cook {
+    text-align: left;
+}
+
+.ingredient:nth-child(odd){
+    background-color: #E9FFFA;
+}
+
+.field-recipe {
+    background-color: #E9FFFA;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    margin: 10px 0px 40px 0px;
+    height: 40px;
+    width: 500px;
+    box-sizing: border-box;
+    font-family: Courier;
+    font-weight: 600;
+}
+
+::placeholder {
+    font-family: Courier;
+    color: #6C5F5B;
+    font-weight: 600;
+}
+
+.field-recipe:hover, .field-recipe:focus {
+    border-width: 3px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.work-recipe {
+    text-decoration: none;
+    margin: 10px;
+    padding: 18px 60px;
+    background-color: #ACD0C0;
+    color: #000000;
+    border-radius: 25px 0px;
+    border-bottom: 5px solid #6C5F5B;
+}
+
+.work-recipe:hover {
+    background-color: #75B1A9;
+}
+
+#cooking-method {
+    resize: none;
+    height: 200px;
+    width: 600px;
+}
+
