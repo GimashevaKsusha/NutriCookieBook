@@ -1,0 +1,11 @@
+INSERT INTO public.tags_reference VALUES ('b98baa09-2157-4283-a827-940cd0facc28', 'Без глютена', '', '2023-08-20 10:16:34.851053+05');
+INSERT INTO public.tags_reference VALUES ('00e153e3-320e-4e73-b5ab-b6399a0ddf31', 'Без мяса много зелени', '', '2023-08-20 10:16:34.851053+05');
+INSERT INTO public.tags_reference VALUES ('c946ddfc-6b4d-45bd-9546-a0fd9b3976a4', 'Без мяса детокс', '', '2023-08-20 10:16:34.851053+05');
+INSERT INTO public.tags_reference VALUES ('3011dfb6-1e87-425e-89d1-c5b261adc3ea', 'Для здоровья кишечника и микробиома', '', '2023-08-20 10:16:34.851053+05');
+INSERT INTO public.tags_reference VALUES ('0da2d250-06a2-47d5-bbb0-d1ea5ce5a46d', 'Многозелени', '', '2023-08-20 10:16:34.851053+05');
+INSERT INTO public.tags_reference VALUES ('c75a4d49-0b86-4641-9d5d-0ed7e11ca797', 'Без лактозы', 'для включения.ont', '2023-08-20 10:16:34.851053+05');
+INSERT INTO public.tags_reference VALUES ('b9ea0e69-9fe0-4676-97b5-2ac1faa58c31', 'Без мяса', 'для исключения.ont', '2023-08-20 10:16:34.851053+05');
+INSERT INTO public.tags_reference VALUES ('a7b1ad3d-d494-4fde-8d7c-22745953b6af', 'Без яиц', 'для исключения.ont', '2023-08-20 10:16:34.851053+05');
+INSERT INTO public.tags_reference VALUES ('eca0ecf3-bc1e-4e19-b648-bac9a5deb9f6', 'Без рыбы и морепродуктов', 'для исключения.ont', '2023-08-20 10:16:34.851053+05');
+INSERT INTO public.tags_reference VALUES ('43d7a6e0-0581-4818-b411-08081160eb9f', 'Без молочного', 'для исключения.ont', '2023-08-20 10:16:34.851053+05');
+INSERT INTO public.tags_reference VALUES ('19987a15-255d-4eb6-8ddb-2e84e3b07ce2', 'Без сахара', 'для включения.ont', '2023-08-20 10:16:34.851053+05');

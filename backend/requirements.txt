@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy~=1.4.43
+psycopg2
+alembic
+starlette
+python-dotenv
+pymorphy2
+nltk
+python-multipart
+pyjwt
+bcrypt
+uuid
+beautifulsoup4
+requests
+openpyxl
+wiki-ru-wordnet

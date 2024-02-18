@@ -1,0 +1,33 @@
+.side-menu {
+    height: 100%;
+    width: 270px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #75B1A9;
+    overflow-x: scroll;
+    padding-top: 20px;
+    transform: scaleX(-1);
+}
+
+.side-menu a {
+    text-decoration: none;
+    text-align: center;
+    color: #000000;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    height: 40px;
+    background-color: #E9FFFA;
+    border-bottom: 5px solid #6C5F5B;
+    border-radius: 0px 25px;
+    transform: scaleX(-1);
+}
+
+.side-menu a:hover {
+    background-color: #DAC3B3;
+}
+
+#side-menu-true {
+    background-color: #DAC3B3;
+}

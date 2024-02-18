@@ -1,0 +1,6 @@
+INSERT INTO public.users VALUES ('43e5183a-7f0b-4d49-a660-a55b97d87def', 'user', '$2b$12$u5mo0KEgZnIokMK6lPvfRuoGG7HXAeyfnGZAYpbeF1zg1S/x1PNTO', '3cff02fe-893f-42b5-8766-a3b887eb683c', '2023-09-24 13:44:56.17295+05');
+INSERT INTO public.users VALUES ('0e7ad487-9d24-4439-8e68-88f7b9a962cc', 'gim_ksu', '$2b$12$bKGsz3h8tKbf3NK3hBp9DuN3OrtcG/Hcn6rfLy/XJuvcc0f0AHcLq', 'e93fbd26-701e-47ab-bd6f-773d3233cd77', '2023-09-24 13:44:19.576747+05');
+INSERT INTO public.users VALUES ('8f3f168e-1324-4005-86bb-8674a74bd29e', 'expert', '$2b$12$tDsKQha88m6dbLGebHebbe0gOIEQOApaJtxQyf2/Qnt2NYLfS75Ra', 'ce9c5b53-5d7d-41af-8ae3-095956eae31e', '2023-09-24 13:45:05.410153+05');
+INSERT INTO public.users VALUES ('65853a7e-0d7c-4e66-8062-9e59060baaaa', 'developer', '$2b$12$Z8YiPtZkM3XkkyHgCliaxeSwOE3wcRhNwv9OU9PMW2X4JLDYXTsP6', '4e948c65-aa5d-461f-b5b9-85a01494593b', '2023-09-24 13:45:21.459699+05');
+INSERT INTO public.users VALUES ('85ddc48f-8bbb-4c68-a23a-8ddf44cd7673', 'biogenom', '$2b$12$lwDsJkyd8fmC21bxgPn/Bu9AdPUCHgsgzN0laeW16Jvaz8z8qhOTm', 'ce9c5b53-5d7d-41af-8ae3-095956eae31e', '2023-09-24 13:45:43.441316+05');
+INSERT INTO public.users VALUES ('f4808429-16b6-43fb-bb35-69e073c7058d', 'ksusha', '$2b$12$lJkc96NbqUp0X3yI2d5TJOkrh1GFBXnDK9D5jMNABsmFhujL9SvwK', 'e93fbd26-701e-47ab-bd6f-773d3233cd77', '2023-09-24 13:46:50.965495+05');

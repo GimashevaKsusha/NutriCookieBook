@@ -1,0 +1,70 @@
+.tagged-values-container {
+    background-color: #FFFFFF;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 5px;
+    margin: 30px;
+    height: calc(100vh - 70px);
+    overflow: auto;
+    margin-left: 270px;
+    text-align: center;
+}
+
+.tagged-values-text {
+    padding: 0px 20px;
+}
+
+.tagged-values-datagrid-container {
+    margin: 20px;
+    margin-bottom: 5px;
+    height: calc(100% - 240px);
+    min-height: 370px;
+}
+
+.tagged-values-reaction-button-container {
+    text-align: right;
+    margin: 20px;
+}
+
+.tagged-values-reaction-button {
+    text-decoration: none;
+    color: #000000;
+    width: 440px;
+    padding: 20px;
+    margin-left: 20px;
+    background-color: #ACD0C0;
+    border: 0px solid;
+    display: inline-block;
+    border-bottom: 5px solid #6C5F5B;
+    border-radius: 25px 0px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.tagged-values-reaction-button:hover {
+    background-color: #CDAB81;
+}
+
+.tagged-values-operation-button-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.tagged-values-operation-button {
+    background-color: #ACD0C0;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    height: 40px;
+    width: 360px;
+    margin: 5px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.tagged-values-operation-button:hover {
+    background-color: #CDAB81;
+}

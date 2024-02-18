@@ -1,0 +1,82 @@
+.tagging-container {
+    background-color: #FFFFFF;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 5px;
+    margin: 30px;
+    height: calc(100vh - 70px);
+    overflow: auto;
+    margin-left: 270px;
+}
+
+.tagging-text {
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    border-radius: 25px;
+    border: 2px solid #6C5F5B;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #C5BEBA;
+}
+
+.upload-tag-ontology-container {
+    text-align: center;
+}
+
+.upload-tag-ontology-button {
+	display: inline-block;
+	text-decoration: none;
+	background-color: #ACD0C0;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    height: 40px;
+    width: 440px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.upload-tag-ontology-button:hover {
+	background-color: #CDAB81;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.upload-tag-ontology-label input[type=file] {
+	position: absolute;
+	z-index: -1;
+	opacity: 0;
+	display: block;
+	width: 0;
+	height: 0;
+}
+
+.tagging-button-container {
+    text-align: right;
+    margin: 20px 40px;
+}
+
+.tagging-button {
+    text-decoration: none;
+    color: #000000;
+    width: 320px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background-color: #ACD0C0;
+    border: 0px solid;
+    display: inline-block;
+    border-bottom: 5px solid #6C5F5B;
+    border-radius: 25px 0px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.tagging-button:hover {
+    background-color: #CDAB81;
+}

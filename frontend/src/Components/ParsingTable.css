@@ -1,0 +1,16 @@
+#parsing-table {
+    width: 100%;
+    text-align: center;
+    padding: 40px;
+}
+
+#parsing-table td, #parsing-table th {
+    border: 2px solid #6C5F5B;
+    padding: 8px;
+}
+
+#parsing-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #DAC3B3;
+}

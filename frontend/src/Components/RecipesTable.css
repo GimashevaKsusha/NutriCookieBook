@@ -1,0 +1,32 @@
+#recipes-table {
+    width: 100%;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+#recipes-table td {
+    border: 2px solid #6C5F5B;
+    padding: 8px;
+}
+
+.recipe-name {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #C5BEBA;
+}
+
+.recipe-method, .recipe-description, .recipe-tags, .ingredients {
+    text-align: left;
+}
+
+.recipe-ingredients-false {
+    background-color: #E9FFFA;
+}
+
+.recipe-ingredients-true {
+    background-color: #C6DEB9;
+}
+
+.explanation-text {
+    text-align: center;
+}

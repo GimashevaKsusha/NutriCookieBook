@@ -1,0 +1,70 @@
+.recipes-by-checked-container {
+    background-color: #FFFFFF;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 5px;
+    margin: 30px;
+    height: calc(100vh - 70px);
+    overflow: auto;
+    margin-left: 270px;
+    position: relative;
+}
+
+.recipes-by-checked-button-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.recipes-by-checked-switch-button {
+    background-color: #ACD0C0;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    height: 40px;
+    width: 220px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.recipes-by-checked-switch-button:hover {
+    background-color: #CDAB81;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.recipes-by-checked-exit-button-container {
+    text-align: right;
+    padding: 20px 40px 40px 0px;
+}
+
+.recipes-by-checked-exit-button {
+    text-decoration: none;
+    color: #000000;
+    padding: 20px;
+    width: 320px;
+    background-color: #ACD0C0;
+    border: 0px solid;
+    display: inline-block;
+    border-bottom: 5px solid #6C5F5B;
+    border-radius: 25px 0px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.recipes-by-checked-exit-button:hover {
+    background-color: #CDAB81;
+}
+
+.recipes-by-checked-user-query {
+    margin: 10px 40px;
+    padding: 20px;
+    display: flex;
+    border-radius: 25px;
+    border: 2px solid #6C5F5B;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #AFC5A5;
+}

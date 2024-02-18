@@ -1,0 +1,29 @@
+#mapping-log-table {
+    width: 100%;
+    text-align: left;
+    padding: 5px 10px;
+}
+
+#mapping-log-table td {
+    border: 2px solid #6C5F5B;
+    padding: 8px;
+}
+
+.mapped-column-false {
+    width: 30%;
+    background-color: #E9FFFA;
+}
+
+.mapped-value-true {
+    background-color: #DAC3B3;
+}
+
+.ingredient-name {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #C5BEBA;
+}
+
+.ingredient-prop {
+    background-color: #AFC5A5;
+}

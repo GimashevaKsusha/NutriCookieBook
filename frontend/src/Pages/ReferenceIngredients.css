@@ -1,0 +1,76 @@
+.reference-ingredients-container {
+    background-color: #FFFFFF;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 5px;
+    margin: 30px;
+    height: calc(100vh - 70px);
+    overflow: auto;
+    margin-left: 270px;
+    text-align: center;
+}
+.reference-ingredients-reaction-button-container {
+    text-align: right;
+    margin: 20px;
+}
+
+.reference-ingredients-reaction-button {
+    text-decoration: none;
+    color: #000000;
+    width: 520px;
+    padding: 20px;
+    margin-left: 20px;
+    background-color: #ACD0C0;
+    border: 0px solid;
+    display: inline-block;
+    border-bottom: 5px solid #6C5F5B;
+    border-radius: 25px 0px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.reference-ingredients-reaction-button:hover {
+    background-color: #CDAB81;
+}
+
+
+.reference-ingredients-text {
+    padding: 0px 50px;
+}
+
+.reference-ingredients-datagrid-container {
+    display: flex;
+    flex-template-columns: 1fr 1fr;
+    padding: 0px 20px;
+}
+
+.reference-ingredients-datagrid {
+    padding: 0px 20px;
+    height: 320px;
+    width: 50%;
+    min-width: 370px;
+}
+
+.reference-ingredients-operation-button-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.reference-ingredients-operation-button {
+    background-color: #ACD0C0;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    height: 40px;
+    width: 440px;
+    margin: 5px 20px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.reference-ingredients-operation-button:hover {
+    background-color: #CDAB81;
+}

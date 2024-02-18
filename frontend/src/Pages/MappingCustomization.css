@@ -1,0 +1,89 @@
+.mapping-customization-container {
+    background-color: #FFFFFF;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 5px;
+    margin: 30px;
+    height: calc(100vh - 70px);
+    overflow: auto;
+    margin-left: 270px;
+    text=align: left;
+}
+
+.mapping-customization-explanation-text {
+    padding: 20px 50px;
+    text-align: center;
+}
+
+.mapping-customization-text {
+    margin: 20px 40px;
+    padding: 20px;
+    display: flex;
+    border-radius: 25px;
+    border: 2px solid #6C5F5B;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    background-color: #C5BEBA;
+}
+
+.mapping-customization-button-container {
+    text-align: right;
+    margin: 20px 40px;
+}
+
+.mapping-customization-button {
+    text-decoration: none;
+    color: #000000;
+    width: 360px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background-color: #ACD0C0;
+    border: 0px solid;
+    display: inline-block;
+    border-bottom: 5px solid #6C5F5B;
+    border-radius: 25px 0px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.mapping-customization-button:hover {
+    background-color: #CDAB81;
+}
+
+.mapping-customization-parameter {
+    color: #000000;
+    padding: 20px 60px;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+#depth-parameter::before {
+    content: 'ГЛУБИНА ПОИСКА СИНОНИМОВ';
+    margin-right: 10px;
+}
+
+#amount-parameter::before {
+    content: 'МАКСИМАЛЬНОЕ КОЛИЧЕСТВО СИНОНИМОВ';
+    margin-right: 10px;
+}
+
+#percent-parameter::before {
+    content: 'ПРОЦЕНТ СОПОСТАВЛЕНИЯ';
+    margin-right: 10px;
+}
+
+.mapping-parameter {
+    color: #000000;
+    border: 0px solid;
+    font-family: Helvetica;
+    font-size: 16px;
+    width: 100px;
+    text-align: right;
+}
+
+.mapping-parameter:focus {
+    outline: none;
+}

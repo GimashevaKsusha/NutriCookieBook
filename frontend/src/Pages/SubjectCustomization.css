@@ -1,0 +1,105 @@
+.subject-container {
+    background-color: #FFFFFF;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 5px;
+    margin: 30px;
+    height: calc(100vh - 70px);
+    overflow: auto;
+    margin-left: 270px;
+}
+
+.subject-text-explanation {
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    border-radius: 25px;
+    border: 2px solid #6C5F5B;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #C5BEBA;
+}
+
+.subject-text {
+    padding: 20px 40px 0px 40px;
+}
+
+.hint-button-container {
+    text-align: center;
+}
+
+.hint-text-explanation {
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    border-radius: 25px;
+    border: 2px solid #6C5F5B;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #AFC5A5;
+}
+
+.hint-button {
+    text-decoration: none;
+    color: #000000;
+    width: 320px;
+    padding: 20px;
+    background-color: #ACD0C0;
+    border: 0px solid;
+    display: inline-block;
+    border-bottom: 5px solid #6C5F5B;
+    border-radius: 25px 0px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.hint-button:hover {
+    background-color: #CDAB81;
+}
+
+.subject-button-container {
+    text-align: right;
+    padding: 40px;
+}
+
+.subject-button {
+    text-decoration: none;
+    color: #000000;
+    width: 320px;
+    padding: 20px;
+    background-color: #ACD0C0;
+    border: 0px solid;
+    display: inline-block;
+    border-bottom: 5px solid #6C5F5B;
+    border-radius: 25px 0px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.subject-button:hover {
+    background-color: #CDAB81;
+}
+
+.subject-field {
+    background-color: #E8E0DB;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    margin: 10px 40px;
+    height: 40px;
+    width: 600px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+.subject-field:hover, .subject-field:focus {
+    border-width: 2px;
+    outline: none;
+    box-sizing: border-box;
+}
+

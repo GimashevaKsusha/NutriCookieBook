@@ -1,0 +1,33 @@
+.benchmark-ingredients-container {
+    background-color: #FFFFFF;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 5px;
+    margin: 30px;
+    height: calc(100vh - 70px);
+    overflow: auto;
+    margin-left: 270px;
+    text-align: center;
+}
+
+.benchmark-ingredients-button-container {
+    text-align: center;
+}
+
+.benchmark-ingredients-button {
+    background-color: #ACD0C0;
+    border-color: #6C5F5B;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    height: 40px;
+    width: 440px;
+    margin: 20px;
+    box-sizing: border-box;
+    font-family: Helvetica;
+    font-size: 16px;
+}
+
+.benchmark-ingredients-button:hover {
+    background-color: #CDAB81;
+}

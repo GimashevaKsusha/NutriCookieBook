@@ -1,0 +1,12 @@
+INSERT INTO main.recipe_dish_units_reference VALUES ('54695fd0-2b34-4360-b8c6-f8ce09a25679', 'г', 'Dish', '2023-06-20 15:13:01.467047+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('ca3b628f-8b1d-4ced-89f6-c2cd97f95997', 'мл', 'Dish', '2023-06-20 15:13:01.467047+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('eba207e6-14d7-453b-94f7-cb5c7cdef34c', 'г', 'Ingredient', '2023-06-20 15:26:57.515962+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('c7ca4c09-632f-4c86-bd38-e513e37b75f2', 'шт', 'Ingredient', '2023-06-20 15:26:57.515962+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('ae402431-b30c-434e-9558-1876377dc4fb', 'чайн. ложки', 'Ingredient', '2023-06-20 15:13:01.467047+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('6341bb51-89de-494b-b355-1cf62608b297', 'ст. ложки', 'Ingredient', '2023-06-20 15:13:01.467047+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('9dcdaa25-a2a2-47da-843c-b8e19635f582', 'мл', 'Ingredient', '2023-07-06 10:16:07.578762+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('063fecb5-d3e9-4cfe-833f-db565b3faec4', 'банка', 'Ingredient', '2023-08-01 22:47:09.404581+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('c405e37c-9ed7-4040-b178-bb11f3eab21e', 'щепотка', 'Ingredient', '2023-08-01 22:47:36.902053+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('724faf38-449e-4825-9bb6-b84829b7433f', 'по вкусу', 'Ingredient', '2023-08-01 22:47:44.165731+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('eacfc170-da35-44be-b264-6f78ef0d753b', 'на кончике ножа', 'Ingredient', '2023-08-02 10:18:49.829323+05');
+INSERT INTO main.recipe_dish_units_reference VALUES ('0e5837ad-d7d4-4d14-8bb0-98b395a5f254', 'стакан', 'Ingredient', '2023-08-01 22:46:13.593806+05');
